@@ -17,3 +17,6 @@ Este proyecto se centra en la descarga, procesamiento y migración de datos del 
 ## Cómo contribuir
 
 Este proyecto está en desarrollo y cualquier contribución es bienvenida. Si tienes alguna sugerencia o mejora, no dudes en abrir un issue o un pull request.
+
+## Flujo
+![alt text](img/image.png)
